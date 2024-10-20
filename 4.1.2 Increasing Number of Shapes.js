@@ -27,7 +27,6 @@ function addShapes(e){
 }
 
 function main() {
-    console.log("main")
     setTimer(addShapes, DELAY);
 }
 
